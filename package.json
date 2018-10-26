@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "test": "./node_modules/.bin/jest --runInBand"
+    "pouetpouet": "./node_modules/.bin/jest --runInBand"
   },
   "engines": {
     "node": "8.*",

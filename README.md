@@ -11,7 +11,7 @@ Quick start
 npm install
 
 # lancer les tests
-npm test
+npm run pouetpouet
 ```
 
 Ce qu'il faut regarder
